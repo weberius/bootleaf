@@ -22,7 +22,7 @@ Links to css Libraries:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-locatecontrol/0.79.0/L.Control.Locate.css">
 ```
 ### Demo:
-http://bmcbride.github.io/bootleaf/
+https://weberius.github.io/bootleaf/
 
 ### Features:
 * Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
